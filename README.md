@@ -13,10 +13,10 @@ Have [Google Geocode API](https://developers.google.com/maps/documentation/geoco
 
 Enter the API key and service URL in config file (without qoutes) and the places to be marked in where.txt file, then run the script.
 
-### [Web Page View](mysterious-owl.github.io/index.html)
+### [Web Page View](webpage.html)
 
 ### Screenshot
 
-![Map view](/docs/Screenshot.png)
+![Map view](/Screenshot.png)
 
 
