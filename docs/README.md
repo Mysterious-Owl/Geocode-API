@@ -17,6 +17,6 @@ Enter the API key and service URL in config file (without qoutes) and the places
 
 ### Screenshot
 
-![Map view](https://github.com/Mysterious-Owl/Geocode-API/blob/main/Screenshot%201.png)
+![Map view](/docs/Screenshot.png)
 
 
